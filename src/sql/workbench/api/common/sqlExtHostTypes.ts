@@ -346,7 +346,8 @@ export enum DataProviderType {
 	CapabilitiesProvider = 'CapabilitiesProvider',
 	ObjectExplorerNodeProvider = 'ObjectExplorerNodeProvider',
 	SerializationProvider = 'SerializationProvider',
-	IconProvider = 'IconProvider'
+	IconProvider = 'IconProvider',
+	AssessmentServicesProvider = 'AssessmentServicesProvider'
 }
 
 export enum DeclarativeDataType {
